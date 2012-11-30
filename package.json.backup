@@ -1,0 +1,9 @@
+{
+  "name": "nuovascheda",
+  "fullName": "nuova scheda",
+  "description": "Aggiunge il pulsante Nuova scheda nel menu contestuale della Barra delle schede.",
+  "author": "gialloporpora",
+  "license": "MPL 2.0",
+  "version": "0.1",
+	"dependencies": "menuitems"
+}
