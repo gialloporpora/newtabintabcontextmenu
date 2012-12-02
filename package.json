@@ -1,9 +1,10 @@
 {
     "name": "newtabintabcontextmenu", 
     "license": "MPL 2.0.1", 
-    "author": "gialloporpora (http://www.gialloporpora.netsons.org/ <gialloporpora@yahoo.it>", 
-    "version": "0.1", 
+    "author": "gialloporpora", 
+    "homepage" : "http://www.gialloporpora.netsons.org",
+    "version": "0.2", 
     "fullName": "New Tab in Tab Context Menu", 
     "id": "lnew-tab-in-tab-context-menu@gialloporpora.netsons.org", 
-    "description": "Restore the New Tab menu item to the tabbar contestual menu."
+    "description": "Restore the New Tab menu item to the tabs contestual menu."
 }
